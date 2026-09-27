@@ -1,12 +1,11 @@
-Excel Data Analysis Portfolio
 
 Welcome to my Data Analysis Portfolio.
 
 I am a Data Analyst and IT & Data Professional with practical experience building Excel-based business solutions, dashboards, reporting systems, and data management tools.
 
-📊 Projects
+📊 Project
 
-1. Royal Choice Supermarket Dashboard
+1. Royal Choice Supermarket Management Analysis 
 
 Project Overview
 
