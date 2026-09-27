@@ -140,15 +140,7 @@ Project Presentation
 
 "View Supermarket Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQBHc99qNzLQQZxdSFyVt8f6Adcut0GY3vNnygQYM6W6aFg?e=ncQpkq)
 
-
-
-2. Hospital Management & Analysis
-
-Hospital patient, ward, pharmacy, and operational data management and analysis.
-
-"View Hospital Excel Project" (https://1drv.ms/x/c/1f6c66d9acbb9ca2/IQAsr3WQcdBwSI4e-YjpkvR-Abwjm3_kwTDLUm7pkJsT2XM?e=podVdV)
-
-3. Tutorial Centre Management System
+2. Tutorial Centre Management System
 
 Student registration, payment tracking, examination records, and reporting.
 
